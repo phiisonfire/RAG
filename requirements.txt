@@ -1,0 +1,6 @@
+tiktoken
+llama-index
+python-dotenv
+pinecone-client
+pymupdf
+-e .
